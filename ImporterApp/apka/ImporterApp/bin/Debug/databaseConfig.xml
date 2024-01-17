@@ -1,0 +1,6 @@
+<databaseConfig>
+  <login>admin</login>
+  <password>admin</password>
+  <instanceName>MIKE-LAPTOP</instanceName>
+  <catalogName>ImporterApp</catalogName>
+</databaseConfig>

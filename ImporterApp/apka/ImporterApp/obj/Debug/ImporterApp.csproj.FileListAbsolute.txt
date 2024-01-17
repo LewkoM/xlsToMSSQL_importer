@@ -1,0 +1,10 @@
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\bin\Debug\ImporterApp.exe.config
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\bin\Debug\ImporterApp.exe
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\bin\Debug\ImporterApp.pdb
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\obj\Debug\ImporterApp.csproj.AssemblyReference.cache
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\obj\Debug\ImporterApp.Form1.resources
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\obj\Debug\ImporterApp.Properties.Resources.resources
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\obj\Debug\ImporterApp.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\obj\Debug\ImporterApp.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\obj\Debug\ImporterApp.exe
+C:\Users\Michal\Desktop\PRAKTYKI 2023\apka\ImporterApp\obj\Debug\ImporterApp.pdb
